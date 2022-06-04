@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.17
+
+Name: libns3-dsdv
+Description: ns-3 module ns3-dsdv
+Version: 3.17
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.17-dsdv-debug
+Cflags: -I${includedir}
+Requires: libns3.17-internet-debug libns3.17-wifi-debug libns3.17-mesh-debug libns3.17-applications-debug

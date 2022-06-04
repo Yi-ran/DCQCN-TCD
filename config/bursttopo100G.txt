@@ -1,0 +1,22 @@
+21 2 20
+0 1
+2 0 100Gbps 0.002ms 0
+3 0 100Gbps 0.002ms 0
+0 1 100Gbps 0.002ms 0
+4 1 100Gbps 0.002ms 0
+5 1 100Gbps 0.002ms 0
+6 1 100Gbps 0.002ms 0
+7 1 100Gbps 0.002ms 0
+8 1 100Gbps 0.002ms 0
+9 1 100Gbps 0.002ms 0
+10 1 100Gbps 0.002ms 0
+11 1 100Gbps 0.002ms 0
+12 1 100Gbps 0.002ms 0
+13 1 100Gbps 0.002ms 0
+14 1 100Gbps 0.002ms 0
+15 1 100Gbps 0.002ms 0
+16 1 100Gbps 0.002ms 0
+17 1 100Gbps 0.002ms 0
+18 1 100Gbps 0.002ms 0
+19 1 100Gbps 0.002ms 0
+20 1 100Gbps 0.002ms 0

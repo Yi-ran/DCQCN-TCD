@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=/usr/local/lib
+includedir=/usr/local/include/ns3.17
+
+Name: libns3-tools
+Description: ns-3 module ns3-tools
+Version: 3.17
+Libs: -L${libdir} -Wl,-Bdynamic -lns3.17-tools-debug
+Cflags: -I${includedir}
+Requires: libns3.17-network-debug libns3.17-stats-debug

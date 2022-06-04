@@ -1,0 +1,24 @@
+23 3 22
+0 1 21
+2 21 40Gbps 0.005ms 0
+3 21 40Gbps 0.005ms 0
+21 0 40Gbps 0.005ms 0
+0 1 40Gbps 0.005ms 0
+4 1 40Gbps 0.005ms 0
+5 1 40Gbps 0.005ms 0
+6 1 40Gbps 0.005ms 0
+7 1 40Gbps 0.005ms 0
+8 1 40Gbps 0.005ms 0
+9 1 40Gbps 0.005ms 0
+10 1 40Gbps 0.005ms 0
+11 1 40Gbps 0.005ms 0
+12 1 40Gbps 0.005ms 0
+13 1 40Gbps 0.005ms 0
+14 1 40Gbps 0.005ms 0
+15 1 40Gbps 0.005ms 0
+16 1 40Gbps 0.005ms 0
+17 1 40Gbps 0.005ms 0
+18 1 40Gbps 0.005ms 0
+19 1 40Gbps 0.005ms 0
+20 1 40Gbps 0.005ms 0
+22 0 40Gbps 0.005ms 0
